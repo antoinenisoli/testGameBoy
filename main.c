@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <gb/gb.h>
+#include <stdio.h>
 
 void main()
 {
-    prinf("HELLO WORLD");
+    printf("HELLO WORLD");
 }
